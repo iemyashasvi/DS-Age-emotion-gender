@@ -8,4 +8,4 @@ tqdm
 opencv-contrib-python
 scikit-learn
 Keras-Preprocessing
-opencv
+opencv-python
